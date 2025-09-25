@@ -14,7 +14,10 @@ Element	Meaning	Purpose
 <sub>	Subscript Text	Typographical stylistic choice
 <sup>	Superscript Text	Another typographical presentation style
 <a> Anchor Links
-
+<img> image
+<ol> Ordered List
+<ul> Unordered List
+<li> List Item
 
 
 Comments
